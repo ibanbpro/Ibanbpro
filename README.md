@@ -2,8 +2,7 @@
 [gmail]: mailto:ibanbpro@gmail.com
 [ibanbpro]: https://ibanbpro.netlify.app/
 [Discord]: https://discord.gg/gjJy34UzbC
-[alvabot]: https://alvabot.netlify.app/
-
+[lyvas]: https://lyvas.alvas.fr/
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Iban</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from France.</h3>
 
@@ -15,7 +14,7 @@
 
 ### Glad to see you here 👋
 
-I'm the developer behind **[AlvaBot][alvabot] & [Projets Soon]**,  
+I'm the developer behind **[Lyvas-Bot][lyvas] & [Projets Soon]**,  
 
 I enjoy building products that combine **clean design**, **great UX**, and **real-world usability**.  
 
